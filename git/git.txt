@@ -1,0 +1,7 @@
+step1: Download git from https://git-scm.com/downloads
+step2: Vscode 
+step3: Create assignment or practice folder and open vs code
+step4: In vscode click on user icon and login with gitub
+step5: click on source control icon, and init repo
+step6: commit your changes message 
+step7: publish branch / upload arrow
